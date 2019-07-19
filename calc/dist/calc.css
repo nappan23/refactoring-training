@@ -1,0 +1,15 @@
+.calc button {
+  width: 48px;
+  font-size: 16px;
+  padding: 4px;
+  background: #fff;
+  border: 1px solid #ccc; }
+  .calc button:hover {
+    background: #eee; }
+
+.calc .calc-result {
+  width: 197px;
+  border: 1px solid #ccc;
+  text-align: right;
+  padding: 2px 4px; }
+
